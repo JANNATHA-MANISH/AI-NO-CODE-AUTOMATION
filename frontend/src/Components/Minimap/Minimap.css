@@ -1,0 +1,59 @@
+.pipeline-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.react-flow-container {
+    width: 100%;
+    height: 70vh;
+}
+
+
+.react-flow__minimap {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+}
+
+
+.react-flow__minimap-node {
+    transition: all 0.3s ease;
+    opacity: 0.8;
+}
+
+
+.react-flow__minimap-node.selected {
+    border: 2px solid #ff6f61;
+}
+
+.primary-btn {
+    background-color: #9b59b6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.primary-btn:hover {
+    background-color: #3498db;
+}
+
+
+body {
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+
+body,
+.primary-btn {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+

@@ -1,0 +1,19 @@
+.submitButton{
+    background:rgb(19, 0, 47);
+    color: white;
+    padding: 15px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease; 
+    position: center; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    margin-right: 20px;
+    
+}
+.submitButton:hover {
+    background:rgba(4, 240, 67, 0.797);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(0, 0, 0, 0.5); 
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.8), 0 0 10px rgba(255, 255, 255, 0.6); 
+}

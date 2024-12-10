@@ -1,0 +1,72 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.env
+
+# Backend-related artifacts
+*.log
+*.db
+*.sqlite
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# React Build
+/build/
+dist/
+.cache/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Tests and coverage reports
+*.coveragerc
+.coverage
+*.coverage*
+nosetests.xml
+*.tox
+*.nox
+*.coverage
+*.hypothesis/
+
+# Pytest cache directory
+**/.pytest_cache/
+
+# Webpack / Babel cache
+.cache/
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore zip file
+*.zip
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore any other unwanted files
+*.tgz
+*.gz
+hushh project/
+MANISH_JANNATHA_technical_assessment/
+source types/

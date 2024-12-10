@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(to right,
+            rgb(0, 0, 0),
+            rgba(0, 0, 0, 0.9),
+            rgb(0, 0, 0),
+            rgb(0, 0, 0));
+}
+.app-container {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    margin: 40px;
+    width: 70vw;
+    height: 70vh;
+    margin-top: 1.8%;
+    margin-left: 16%;
+   
+}
+
+.button-container {
+    background-image: linear-gradient(to right,
+            rgba(17, 0, 67, 0.9),
+            rgba(37, 0, 97, 0.9),
+            rgba(67, 10, 137, 0.9),
+            rgba(97, 40, 167, 0.7));
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}

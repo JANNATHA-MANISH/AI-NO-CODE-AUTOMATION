@@ -1,0 +1,82 @@
+.customInput {
+    background: rgb(121 93 198 / 41%);;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(12.5px);
+    -webkit-backdrop-filter: blur(12.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 8px;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+}
+
+.llm {
+    background: rgb(121 93 198 / 41%);;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(12.5px);
+    -webkit-backdrop-filter: blur(12.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 8px;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    text-align: center;
+    margin-left: 30px;
+}
+
+.customOutput {
+    background: rgb(121 93 198 / 41%);;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(12.5px);
+    -webkit-backdrop-filter: blur(12.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 8px;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    margin-left: 30px;
+    margin-left: 30px;
+}
+
+.text {
+    background: rgb(121 93 198 / 41%);;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(12.5px);
+    -webkit-backdrop-filter: blur(12.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 8px;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    margin-left: 30px;
+}
+.notion {
+    background: rgb(121 93 198 / 41%);;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(12.5px);
+    -webkit-backdrop-filter: blur(12.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 8px;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    margin-left: 30px;
+}
+.discord {
+    background: rgb(121 93 198 / 41%);;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(12.5px);
+    -webkit-backdrop-filter: blur(12.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    padding: 8px;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    margin-left: 30px;
+}
