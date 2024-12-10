@@ -1,7 +1,7 @@
 
 # AI-NO-CODE-AUTOMATION
 
-![Project Image](path_to_your_image)
+https://github.com/user-attachments/assets/ba947d60-58a9-4a6c-93e6-5f2497a832b7
 
 ## Project Overview
 
