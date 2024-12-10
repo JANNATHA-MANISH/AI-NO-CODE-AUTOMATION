@@ -1,8 +1,6 @@
 
 # AI-NO-CODE-AUTOMATION
-
-https://github.com/user-attachments/assets/ba947d60-58a9-4a6c-93e6-5f2497a832b7
-
+https://github.com/user-attachments/assets/ecdb955b-c95e-4392-bfb3-945df2a4c8f6
 ## Project Overview
 
 **AI-NO-CODE-AUTOMATION** is a powerful AI automation platform designed for teams to seamlessly integrate artificial intelligence into their workflows, without needing any coding skills. Through a user-friendly, no-code interface, and SDK support, the platform enables users to interact with and leverage AI to:
